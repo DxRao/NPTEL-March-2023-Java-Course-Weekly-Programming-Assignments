@@ -11,7 +11,7 @@ public class AverageArrayElements {
 		double mark_avg;
 		int result;
 		int i;
-		int s;
+		int s; 
 		
 		//define size of array
 		s = input.nextInt();
