@@ -12,7 +12,7 @@ public class AddEvenNumbers {
 			   
 		int sum=0;
 		
-		int count = 0;
+		int count = 0; 
 
 		for(int i =0; count <= n; i++  ){
 	      
@@ -23,7 +23,7 @@ public class AddEvenNumbers {
 	      		sum = sum + i;      	  
 	      	}
 	      	
-	      count = count +1;
+	      count = count + 1;
 	        
 	      }
 	      
