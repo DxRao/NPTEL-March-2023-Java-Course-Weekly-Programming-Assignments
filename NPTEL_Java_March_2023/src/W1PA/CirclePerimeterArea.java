@@ -15,7 +15,7 @@ public class CirclePerimeterArea {
 	       double perimeter;
 	       double area;
 	       
-	   	//Calculate the perimeter
+	   	//Calculate the perimeter 
 
 			perimeter = (2 * Math.PI) * radius;        
 
