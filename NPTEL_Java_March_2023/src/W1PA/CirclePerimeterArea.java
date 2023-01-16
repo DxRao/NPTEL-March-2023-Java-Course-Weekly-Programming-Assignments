@@ -10,6 +10,8 @@ public class CirclePerimeterArea {
 	
 	Scanner s = new Scanner(System.in); 
 	       double radius= s.nextDouble();
+	       s.close();
+	       
 	       double perimeter;
 	       double area;
 	       
